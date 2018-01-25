@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CybrillaTest</string>
+    <string name="sign_up"><u>No account yet? Create one</u></string>
+    <string name="sign_in"><u>Already a member? Login</u></string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "880166614504",
+    "firebase_url": "https://cybrillatest-ad60b.firebaseio.com",
+    "project_id": "cybrillatest-ad60b",
+    "storage_bucket": "cybrillatest-ad60b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880166614504:android:a4b62e3416e144e4",
+        "android_client_info": {
+          "package_name": "com.shijo.cybrillatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880166614504-1bhu2ke9o6j8h7a82l7jgrigqndc9onb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcOB7YbJskJDcIT3V69UZYTXgU4CL2HwQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
